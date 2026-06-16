@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Arda Çankaya! 👋
 
-<!--
-**technomonkey-7/technomonkey-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Engineering student at Politecnico di Torino** and a passionate **AI/Backend Developer**. I focus on building functional SaaS applications, production-ready AI agent architectures, and robust backend infrastructures. I love bridging the gap between engineering excellence and product strategy.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+
+* **CortexNotes (Founder & Lead Developer):** An AI-powered study assistant platform designed to streamline learning workflows, leveraging modern RAG pipelines and advanced LLM integrations.
+* **BioSearchX (NASA Space Apps Challenge):** Developed an award-winning solution that secured **1st Place (Local Winner - Turin)** and the prestigious **Argotec SpacePark Award** in December 2025.
+* **FRC Robotics Leadership:** Serving as Head Coach and Lead Mentor for competitive FIRST Robotics Competition teams (GİRO & Odyssey #11371), managing technical strategy and mentoring high school students in software and mechanical design.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+* **Languages:** TypeScript, JavaScript, Java, C, Python
+* **Backend & Cloud:** Node.js, Next.js (App Router), Express, REST APIs, Vercel
+* **AI & Data Engineering:** Google Gemini API, Prompt Engineering, Structured Data Pipelines
+* **Core Skills:** Systems Architecture, Team Management, Technical Strategy
+
+---
+
+### 📈 GitHub Insights
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=technomonkey-7&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="Arda's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technomonkey-7&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages" />
+</p>
+
+---
+
+### 📬 Let's Connect!
+
+* **LinkedIn:** [linkedin.com/in/arda-cankaya](https://linkedin.com/in/arda-cankaya)
+* **Location:** Torino, Italy 🇮🇹
