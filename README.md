@@ -7,6 +7,7 @@ I am a **Computer Engineering student at Politecnico di Torino** and a passionat
 ### 🚀 Featured Projects
 
 * **CortexNotes (Founder & Lead Developer):** An AI-powered study assistant platform designed to streamline learning workflows, leveraging modern RAG pipelines and advanced LLM integrations.
+* **Sentix (AI-Powered Algorithmic Trading Platform):** A modular, production-ready algorithmic trading and sentiment analysis system. It features a decoupled service architecture (Background Worker + Streamlit UI) communicating via a transactional SQLite database. To optimize API token costs, it uses a hybrid engine that triggers Google Gemini API analysis conditionally only when technical indicators (`pandas-ta`) hit cross-over thresholds.
 * **BioSearchX (NASA Space Apps Challenge):** Developed an award-winning solution that secured **1st Place (Local Winner - Turin)** and the prestigious **Argotec SpacePark Award** in December 2025.
 * **FRC Robotics Leadership:** Serving as Head Coach and Lead Mentor for competitive FIRST Robotics Competition teams (GİRO & Odyssey #11371), managing technical strategy and mentoring high school students in software and mechanical design.
 
