@@ -25,9 +25,8 @@ I am a **Computer Engineering student at Politecnico di Torino** and a passionat
 ### 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=technomonkey-7&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" style="margin: 5px;" alt="Arda's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technomonkey-7&layout=compact&theme=dark&hide_border=true" height="165" style="margin: 5px;" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=technomonkey-7&theme=dark&hide_border=true" height="165" style="margin: 5px;" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technomonkey-7&layout=compact&theme=dark&hide_border=true" height="165" style="margin: 10px;" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=technomonkey-7&theme=dark&hide_border=true" height="165" style="margin: 10px;" alt="GitHub Streak" />
 </p>
 
 ---
