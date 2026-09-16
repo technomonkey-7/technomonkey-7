@@ -1,31 +1,51 @@
-# Hi there, I'm Arda Çankaya! 👋
+# Hi, I'm Arda Çankaya 👋
 
-I am a **Computer Engineering student at Politecnico di Torino** and a passionate **AI/Backend Developer**. I focus on building functional SaaS applications, production-ready AI agent architectures, and robust backend infrastructures. I love bridging the gap between engineering excellence and product strategy.
+Computer Engineering student at **Politecnico di Torino** based in Turin, Italy.  
+I build mobile applications, AI-assisted tools, and focused backend systems with an emphasis on craftsmanship, latency, and calm software.
 
----
-
-## 🚀 Featured Projects
-
-### 🧠 CortexNotes (Founder & Lead Developer)
-An AI-powered SaaS study assistant platform designed to optimize learning workflows. Built with a modern full-stack architecture using Next.js (App Router) and Node.js, it features production-ready RAG (Retrieval-Augmented Generation) pipelines, vector embeddings for document parsing, and advanced Google Gemini API orchestrations to deliver contextual, structured study insights.
-
-### 📈 Sentix (Founder & Lead Developer)
-A modular, production-ready algorithmic trading and market sentiment analysis platform. It features a decoupled architecture (Python Background Worker + Streamlit UI) communicating via a transactional SQLite database. To maximize API cost-efficiency, it implements deterministic financial math (pandas-ta) and triggers the Google Gemini API conditionally only when technical indicators hit crossover thresholds.
-
-### 🌌 BioSearchX (NASA Space Apps Challenge - Global Honorable Mention)
-An advanced search and data analysis solution developed for the NASA Space Apps Challenge in October 2025. The project secured **1st Place (Local Winner in Turin)**, the prestigious **Argotec SpacePark Award**, and achieved a **Global Honorable Mention (Top Tier Distinction)** among 57,000+ global participants for its innovative RAG and Knowledge Graph architecture built to parse complex aerospace/planetary datasets.
-
-### 🤖 FRC Robotics Leadership
-Served as Head Coach, Operations Head, and Lead Mentor for competitive FIRST Robotics Competition teams (GİRO & Odyssey #11371). Responsible for technical systems architecture, embedded software strategy (Java/C++ real-time control loops), and mentoring high school students in agile engineering principles across international regionals.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arda-cankaya/)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🚀 Featured Products
 
-* **Languages:** TypeScript, JavaScript, Java, C, Python
-* **Backend & Cloud:** Node.js, Next.js (App Router), Express, REST APIs, Vercel
-* **AI & Data Engineering:** Google Gemini API, Prompt Engineering, Structured Data Pipelines
-* **Core Skills:** Systems Architecture, Team Management, Technical Strategy
+#### 🧗 [Belay](https://belay.today)
+*An executive-function companion and micro-step focus engine for overwhelmed starters.*
+- Built around the core philosophy of *"the next step, not the pile"* to break daunting macro-tasks into calm, actionable 3–6 step ladders without guilt-inducing streaks or red badges.
+- Features on-device health telemetry scoring (Apple Health & Health Connect) and adaptive task decomposition via Cloudflare Workers and Google Gemini.
+- **Platforms:** iOS & Android (Coming to App Store & Google Play)
+- **Stack:** React Native / Expo (SDK 56), Reanimated, NativeWind, Cloudflare Workers, Supabase, RevenueCat
+
+#### 🧠 [AxonDeck](https://axondeck.app)
+*Any lecture. One deck. (Successor to CortexNotes)*
+- Transforms messy lecture slides, PDFs, and notes into print-ready cheat sheets, formula-accurate flashcards, and practice quizzes in a single pass.
+- Designed with full LaTeX and mathematical notation preservation across multilingual course materials.
+- **Stack:** React, Node.js, Document AI pipelines
+
+---
+
+### 🌌 Other Projects & Recognition
+
+- **NASA Space Apps Challenge** (Two-time Awardee & Global Nominee)
+  - **BioSearchX (2025):** *1st Place (Turin)* · *Argotec SpacePark Award* · *Global Honorable Mention (Top ~1% of 57,000+ participants)*  
+    Intelligent search and knowledge-graph engine built to index and query complex aerospace and space biology literature.
+  - **Planetary Tourism Office (2023):** *2nd Place (Konya)* · *Global Nominee*  
+    Interactive celestial itinerary and space tourism platform designed for public science education.
+
+- **[Sentix](https://github.com/technomonkey-7/sentix)**  
+  Modular algorithmic trading and market sentiment analysis platform. Employs deterministic technical indicators (`pandas-ta`) to conditionally gate LLM inference, keeping API latency and operational costs predictable. Decoupled Python worker + SQLite + Streamlit UI.
+
+- **FIRST Robotics Competition (FRC)**  
+  Served as Head Coach and Lead Mentor for competitive FRC teams (GİRO & Odyssey #11371). Led real-time embedded control loops (Java/C++), systems engineering, and team operations across international regionals.
+
+---
+
+### 🛠️ Tech Stack & Focus
+
+- **Mobile & Frontend:** TypeScript, React Native (Expo), React, Next.js, Tailwind CSS / NativeWind
+- **Backend & Systems:** Node.js, Python, Cloudflare Workers, PostgreSQL / Supabase, SQLite, REST APIs
+- **AI Engineering:** RAG pipelines, tool calling, conditional LLM routing, latency and token cost optimization
+- **Engineering Values:** Apple HIG, calm interfaces, deterministic logic over LLM bloat where possible
 
 ---
 
@@ -38,7 +58,6 @@ Served as Head Coach, Operations Head, and Lead Mentor for competitive FIRST Rob
 
 ---
 
-### 📬 Let's Connect!
-
-* **LinkedIn:** [linkedin.com/in/arda-cankaya](https://linkedin.com/in/arda-cankaya)
-* **Location:** Torino, Italy 🇮🇹
+<p align="center">
+  <sub>📍 Turin, Italy &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/arda-cankaya/">LinkedIn</a></sub>
+</p>
